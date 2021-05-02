@@ -4,6 +4,9 @@
  - adapter
  - proxy (+ aop)
  - singleton
+ - observer
+ - facade
+ - strategy
  
  
  
